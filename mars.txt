@@ -1,3 +1,4 @@
+We are in Mars
 This is the first planet our Git Workshop as part of the MSc in Applied Bioinformatics
 
 GO
